@@ -1,6 +1,4 @@
-Here’s a well-structured and detailed README.md file for your Food Scanner Pro GitHub repository:
-
-Food Scanner Pro
+ # Food Scanner Pro
 
 Scan, Discover, and Learn About Your Food!
 
